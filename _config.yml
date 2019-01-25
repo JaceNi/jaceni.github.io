@@ -1,19 +1,18 @@
 # Site settings
 title: NYC Blog
-SEOTitle: 倪宇辰博客 | NYC Blog
+SEOTitle: 倪宇辰的博客 | NYC Blog
 header-img: img/post-bg-desk.jpg
 email: niyuchen18@gmail.com
-wx: nyc1533099104
 description: "i am hungry!"
-keyword: "NYC, NYC Blog, 倪宇辰 博客, niyuchen, iOS, Apple, iPhone"
+keyword: "NYC, NYC Blog, 倪宇辰, niyuchen, yuchen ni, 千辰"
 url: "http://JaceNi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/JaceNi/jaceni.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Never look back, they are just passengers!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "How you change yourself, how you change the world."
+sidebar-avatar: /img/WechatIMG24.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -63,11 +62,11 @@ disqus_username: yuchenni
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 900deb6a4a177cd17bd4                           #生成的clientID
+  clientSecret: dee3ab1dfff786312b7dbdd29cc9ede05a8e0dda    #生成的clientSecret
+  repo: jaceni.github.io    #仓库名称
+  owner: JaceNi    #github用户名
+  admin: JaceNi
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -87,7 +86,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 5              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -100,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "知乎",
+        href: "https://www.zhihu.com/people/niyuchen/activities"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "简书·NYC",
+        href: "https://www.jianshu.com/u/4e4ae47a824f"
     }
 ]
