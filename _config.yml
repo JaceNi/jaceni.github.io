@@ -1,14 +1,14 @@
 # Site settings
-title: 倪宇辰的博客
+title: NYC Blog
 SEOTitle: 倪宇辰博客 | NYC Blog
 header-img: img/post-bg-desk.jpg
 email: niyuchen18@gmail.com
 wx: nyc1533099104
-description: "Every failure is leading towards success."
-keyword: "NYC, NYC Blog, 倪宇辰的博客, niyuchen, iOS, Apple, iPhone"
+description: "i am hungry!"
+keyword: "NYC, NYC Blog, 倪宇辰 博客, niyuchen, iOS, Apple, iPhone"
 url: "http://JaceNi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/JaceNi/jaceni.github.io。git" # you code repository
+github_repo: "https://github.com/JaceNi/jaceni.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -23,7 +23,7 @@ RSS: false
 zhihu_username:     
 github_username:    JaceNi
 facebook_username:  
-jianshu_username:   u/4e4ae47a824f
+jianshu_username:   4e4ae47a824f
 #twitter_username:   qiubaiying
 
 
