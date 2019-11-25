@@ -1,17 +1,17 @@
 # Site settings
 title: NYC Blog
-SEOTitle: 倪宇辰的博客 | NYC Blog
+SEOTitle: 倪宇辰 | Yuchen Ni | Jace Ni
 header-img: img/post-bg-desk.jpg
-email: niyuchen18@gmail.com
+email: yuchen.ni@outlook.com
 description: "i am hungry!"
-keyword: "NYC, NYC Blog, 倪宇辰, niyuchen, yuchen ni, 千辰"
+keyword: "NYC, NYC Blog, 倪宇辰, niyuchen, yuchen ni, Yuchen Ni"
 url: "https://jaceni.github.io"    #"http://JaceNi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/JaceNi/jaceni.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "How you change yourself, how you change the world."
+sidebar-about-description: "Never try, never know."
 sidebar-avatar: /img/WechatIMG24.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,10 +19,10 @@ sidebar-avatar: /img/WechatIMG24.png      # use absolute URL, seeing it's used i
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     niyuchen
+# zhihu_username:     niyuchen
 github_username:    JaceNi
-facebook_username:  
-jianshu_username:   4e4ae47a824f
+facebook_username:  Ni Yuchen
+#jianshu_username:   4e4ae47a824f
 #twitter_username:  
 
 
@@ -99,10 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "知乎",
-        href: "https://www.zhihu.com/people/niyuchen/activities"
-    },{
-        title: "简书·NYC",
-        href: "https://www.jianshu.com/u/4e4ae47a824f"
+        title: "Yangzi Zhou",
+        href: "https://www.facebook.com/yangzi.zhou88"
     }
 ]
