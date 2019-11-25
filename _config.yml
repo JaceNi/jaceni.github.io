@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-Friends: [
+friends: [
     {
         title: "Yangzi Zhou",
         href: "https://www.facebook.com/yangzi.zhou88"
