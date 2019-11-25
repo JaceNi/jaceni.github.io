@@ -12,7 +12,9 @@ tags:
     - Psychology
 ---
 
-[![](https://github.com/JaceNi/jaceni.github.io/tree/master/img/copywriting8.jpg)](https://github.com/JaceNi)
+
+## Let's load the image
+![](https://github.com/JaceNi/jaceni.github.io/tree/master/img/copywriting8.jpg)
 
 
 
