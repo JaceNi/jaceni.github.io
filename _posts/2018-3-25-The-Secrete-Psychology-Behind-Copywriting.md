@@ -50,6 +50,7 @@ Copywriting is not about using flowery language to communicate to your consumer.
 A lot of copywriters get into the trap of describing the product, what they don’t realise is what they say about the product can be said about four or five other products from the same category! A consumer tends to make a purchase decision based on what value the product promises to add to their life instead of its features, so you need to convey what the product does for the consumer.
 
 2. Give them social proof:
+
 When you’re talking about how good your product is or seeking the trust of consumers, back up your statements with supporting proof to give yourself credibility.If it’s a long form of copy you can incorporate case studies, testimonials, and reviews to validate your claim.Shorter copy should include data/numbers from happy customers, opinion leaders and trusted icons and the likes to establish reliability and authority.
 
 
