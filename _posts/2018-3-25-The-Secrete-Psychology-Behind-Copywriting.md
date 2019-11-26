@@ -13,7 +13,7 @@ tags:
 ---
 
 
-![](https://github.com/JaceNi/jaceni.github.io/blob/master/img/copywriting8.jpg)
+
 
 
 ## You don't have to be a ward wizard
@@ -26,6 +26,9 @@ According to [Copyblogger](https://www.copyblogger.com/copywriting-101/)
 Once you understand your consumer’s psychology and know their mental triggers, it becomes easier to get them to indulge to your persuasion. 
 
 Copywriting is not about using flowery language to communicate to your consumer. It is more about writing what the consumer wants to read. It is important to adapt to their language, tonality, and perspective to get across your message.
+
+
+![](https://github.com/JaceNi/jaceni.github.io/blob/master/img/copywriting8.jpg)
 
 
 ## Why is copywriting as much science as it is art?
