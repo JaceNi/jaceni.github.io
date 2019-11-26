@@ -30,11 +30,14 @@ Copywriting is not about using flowery language to communicate to your consumer.
 
 ## Why is copywriting as much science as it is art?
 
-1. Research: By definition, research itself is a systematic investigation and study of material and sources to establish facts and to gather information. It is an integral part of the copywriting process because it helps in understanding the consumer, markets, product, and competitors.
+1. Research: 
+By definition, research itself is a systematic investigation and study of material and sources to establish facts and to gather information. It is an integral part of the copywriting process because it helps in understanding the consumer, markets, product, and competitors.
 
-2. Psychology — It is another branch of science that holds significance while writing an effective copy. While writing a good ad copy, the idea is to get into the brains of your reader and use their internal motivators to make them respond to your communication and push them to take action
+2. Psychology: 
+It is another branch of science that holds significance while writing an effective copy. While writing a good ad copy, the idea is to get into the brains of your reader and use their internal motivators to make them respond to your communication and push them to take action
 
-3. Communication — Copywriting is not about using flowery language to communicate to your consumer. It is more about writing what the consumer wants to read. It is important to adapt to their language, tonality, and perspective to get across your message.
+3. Communication:
+Copywriting is not about using flowery language to communicate to your consumer. It is more about writing what the consumer wants to read. It is important to adapt to their language, tonality, and perspective to get across your message.
 
 
 ## How can you activate the mental triggers of your prospects?
