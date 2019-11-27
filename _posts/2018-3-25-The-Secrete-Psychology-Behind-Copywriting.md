@@ -28,7 +28,7 @@ Once you understand your consumer’s psychology and know their mental triggers,
 Copywriting is not about using flowery language to communicate to your consumer. It is more about writing what the consumer wants to read. It is important to adapt to their language, tonality, and perspective to get across your message.
 
 
-![](https://github.com/JaceNi/jaceni.github.io/blob/master/img/copywriting8.jpg)
+![](https://images.ifanr.cn/wp-content/uploads/2018/06/WWDC-13.jpg)
 
 
 ## Why is copywriting as much science as it is art?
