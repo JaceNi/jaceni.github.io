@@ -3,7 +3,7 @@ layout:     post
 title:      The Secrete Psychology Behind Copywriting
 subtitle:   the invisible psychology influences people's action
 date:       2018-3-25
-author:     NI
+author:     Yuchen Ni
 header-img: img/home-bg-art.jpg
 catalog: true
 tags:
