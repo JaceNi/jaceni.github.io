@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How to Do Linux Automation Operation and Maintenance
+title:      Introduction to Linux Automation Operation and Maintenance
 subtitle:   From Operation and Maintenance Basics to High-concurrency Architecture for Large Websites
 date:       2018-01-04
 author:     Yuchen Ni
@@ -63,6 +63,41 @@ As a linux architect 20% of the time will be dealing with the urgent problems, a
    2. Familiar with automation operation and maintenance.
    3. Ability to achieve architecture optimization.
    4. Able to handle Operation and Maintenance Engineer, Architect, and other jobs.
+   
+- Knowledge Structure and Importance:
+   1. Operation and Maintainance Basics
+   2. Shell
+   3. NoSQl
+   4. High-Concurrency Architecture For Large Websites
+   5. Autoate Operation and Maintainance
+   6. KVM Virtualization
+   7. Security of Operation
+   8. Version management and continuous integration
+   9. Interview Preparation
+   
+## Cron 
+- Environment we need:
+   1. OS / CentOS 7.6
+   2. Remote management tools: xshell, xftp
+   3. System Optimization: Reference Documentation
+   
+- Introduction to Scheduled Tasks：
+   Enable automatic process of certain service and command at particular time without human interation with the system, which are the periodic tasks to prepare the data storage regularly.
+   
+   **at**: 
+   ```
+at [OPTION] TIME
+   ```
+   1. 
+   
+   
+   
+   
+   
+   
+   
+   
+
 
 
 --- By Yuchen Ni
