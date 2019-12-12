@@ -44,6 +44,7 @@ Internet Operation and Maintenance is service centred, and it is supported by **
 As a linux architect 20% of the time will be dealing with the urgent problems, and 80% will be doiing other less urgent works.
 
 - Career Development:
+   
    **Technical**:  1. Linux Intermediate Architect -> Senior Architect
                    2. Linux Intermediate Architect -> Puthon Automation Developer
                    3. Linux Intermediate Architect -> MySQL Senior DBA
