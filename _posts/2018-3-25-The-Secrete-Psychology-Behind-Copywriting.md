@@ -7,9 +7,9 @@ author:     Yuchen Ni
 header-img: img/home-bg-art.jpg
 catalog: true
 tags:
+    - Yuchen Ni
     - Digital Marketing
     - Copywriting
-    - Psychology
 ---
 
 
@@ -66,7 +66,7 @@ There it is — a handy guide to writing impactful copy. Use these tips to psych
 
 
 
-
+-- Edited By Yuchen Ni/12/12/2019
 
 
 
