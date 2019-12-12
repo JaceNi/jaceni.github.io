@@ -84,10 +84,20 @@ As a linux architect 20% of the time will be dealing with the urgent problems, a
 - Introduction to Scheduled Tasks：
    Enable automatic process of certain service and command at particular time without human interation with the system, which are the periodic tasks to prepare the data storage regularly.
    
-   **at**: 
+- How to use **at**: 
 ```ruby
 at [OPTION] TIME
 ```
+TIME can be in different forms:
+    1. HH:MM [YYYY-mm-dd]  
+    2. noon, midnight, teatime
+    3. tomorrow
+    4. now+#
+    5. UNIL: minute, hours, days, OR weeks
+     
+  **example**:
+    - now +5munites (tasks will be excuted in 5 minutes)
+    - now +
    
    
    
