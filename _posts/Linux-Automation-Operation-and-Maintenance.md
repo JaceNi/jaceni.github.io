@@ -47,6 +47,7 @@ As a linux architect 20% of the time will be dealing with the urgent problems, a
    **Technical**:  1. Linux Intermediate Architect -> Senior Architect
                    2. Linux Intermediate Architect -> Puthon Automation Developer
                    3. Linux Intermediate Architect -> MySQL Senior DBA
+   
    **Management**: Operations Manager -> Operations Director -> CTO/Vice President -> Entrepreneur
 
 
