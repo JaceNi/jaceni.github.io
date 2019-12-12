@@ -95,11 +95,11 @@ TIME can be in different forms:
     4. now+#
     5. UNIL: minute, hours, days, OR weeks
      
-**example**:
+**Examples:**
 
--- now +5munites (tasks will be excuted in 5 minutes)
--- now +1hours   (tasks wille be excuted in 1 hour)
--- now 
+- now +5munites (tasks will be excuted in 5 minutes)
+- now +1hours   (tasks wille be excuted in 1 hour)
+- now 
    
    
    
