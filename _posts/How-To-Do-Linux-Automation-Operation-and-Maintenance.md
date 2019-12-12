@@ -108,18 +108,42 @@ TIME can be in different forms:
 - Assumption: System has started atd service
 ```linux
 [root@kongd ~]# yum install at
-[root@kongd ~]# systemct| start atd.service
-[root@kongd ~]# systemct| enable atd.service
+[root@kongd ~]# systemctl start atd.service
+[root@kongd ~]# systemctl enable atd.service
 ```
-- Set
+- Set:
+```linux
+[root@kongd ~]# at 23:30
+at> systemctl restart httpd
+at> <EOT>
+job 1 at Mon Sep 23 23:30:00 2019
+```
 
+- Scheduled Stask Introduction:
+   1. One Time Scheduled Task:** `Control+D` key combination to end the task
+   2. `at` command receives the previous `echo` command info, enbabling non-interatcive wat to establish an one time task.
+```linux
+[root@kongd ~]# echo "systemctl restart httpd" | at 23:30
+job 2 at Mon Sep 23:30:00 2019
+```
+   3. check: `at -l`
+```linux
+[root@kongd ~]# at -l
+1 Mon Sep 23:30:00 2019 a root
+2 Mon Sep 23:30:00 2019 a root
+```
+   4. delete: atrm
+```
+[root@kongd ~]# atrm 2
+```
    
    
    
    
    
    
-
+## Summury:
+This is the Introduction to Linux Automation Operation and Maintenance which might provide a good understanding for you to understand some basic concepts, the further infomation will be added in other posts with tag linux/cloud computing.
 
 
 --- By Yuchen Ni
