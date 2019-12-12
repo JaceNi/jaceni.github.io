@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Linux Automation Operation and Maintenance
+title:      How to Do Linux Automation Operation and Maintenance
 subtitle:   From Operation and Maintenance Basics to High-concurrency Architecture for Large Websites
 date:       2018-01-04
 author:     Yuchen Ni
@@ -51,6 +51,17 @@ As a linux architect 20% of the time will be dealing with the urgent problems, a
    
    **Management**: Operations Manager -> Operations Director -> CTO/Vice President -> Entrepreneur
 
+- Classifiactions of Operation and Maintainance:
+   
+   **Applicaton(SRE)**
+   
+   **System(SYS)**
+   
+   **R&D(DEV)**
+   
+   **Database(DBA)**
+   
+   **Security(SEC)**
 
 
 - By Yuchen Ni
