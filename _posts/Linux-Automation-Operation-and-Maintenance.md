@@ -4,7 +4,7 @@ title:      Linux Automation Operation and Maintenance
 subtitle:   From Operation and Maintenance Basics to High-concurrency Architecture for Large Websites
 date:       2018-01-04
 author:     Yuchen Ni
-header-img: img/post-bg-BJJ.jpg
+header-img: https://cdn.pling.com/img/8/a/d/a/f9d48d4daa1872534114eab6655f3be0cd56.png
 catalog: true
 tags:
     - Yuchen Ni
@@ -14,4 +14,4 @@ tags:
 
 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.opendesktop.org%2Fp%2F1293186%2F&psig=AOvVaw2d2mozPdD1cqU-j0HUjW8l&ust=1576254615299000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj8g6HEsOYCFQAAAAAdAAAAABAF)
+![](https://cdn.pling.com/img/8/a/d/a/f9d48d4daa1872534114eab6655f3be0cd56.png)
