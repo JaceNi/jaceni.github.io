@@ -63,9 +63,10 @@ As a linux architect 20% of the time will be dealing with the urgent problems, a
    
    **Security(SEC)**
    
-   
-   
-   
+- What can you do after learning?
+
+   -- Familiar with environment deployment, Backup, Monitor, and other tasks.
+   -- 
 
 
 --- By Yuchen Ni
