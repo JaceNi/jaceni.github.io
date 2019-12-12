@@ -85,7 +85,7 @@ As a linux architect 20% of the time will be dealing with the urgent problems, a
    Enable automatic process of certain service and command at particular time without human interation with the system, which are the periodic tasks to prepare the data storage regularly.
    
 - How to use **at**: 
-```ruby
+```linux
 at [OPTION] TIME
 ```
 TIME can be in different forms:
@@ -98,11 +98,21 @@ TIME can be in different forms:
 **Examples:**
 
 - now +5munites (tasks will be excuted in 5 minutes)
-- now +1hours   (tasks wille be excuted in 1 hour)
-- now 
-   
-   
-   
+- now +1hours   (tasks will be excuted in 1 hour)
+- now +31days   (tasks will be excuted in 1 month)
+- now +1weeks   (tasks will be excuted in 1 week)
+- 12:32         (tasks will be excuted at 12:32 today)
+
+**Example: (Open web service at 11:30pm tonight)**
+
+- Assumption: System has started atd service
+```linux
+[root@kongd ~]# yum install at
+[root@kongd ~]# systemct| start atd.service
+[root@kongd ~]# systemct| enable atd.service
+```
+- Set
+
    
    
    
