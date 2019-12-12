@@ -65,7 +65,7 @@ As a linux architect 20% of the time will be dealing with the urgent problems, a
    
 - What can you do after learning?
 
-   -- Familiar with environment deployment, Backup, Monitor, and other tasks.
+   --- Familiar with environment deployment, Backup, Monitor, and other tasks.
    -- 
 
 
