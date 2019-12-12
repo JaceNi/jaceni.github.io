@@ -62,10 +62,13 @@ As a linux architect 20% of the time will be dealing with the urgent problems, a
    **Database(DBA)**
    
    **Security(SEC)**
+   
+   
+   
+   
 
 
-- By Yuchen Ni
-
+--- By Yuchen Ni
 
 
 
