@@ -66,7 +66,7 @@ There it is — a handy guide to writing impactful copy. Use these tips to psych
 
 
 
--- Edited By Yuchen Ni/12/12/2019
+-- By Yuchen Ni/3/25/2018
 
 
 
