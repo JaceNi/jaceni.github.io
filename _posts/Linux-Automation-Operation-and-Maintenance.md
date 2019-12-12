@@ -29,15 +29,25 @@ In my personal experience, the requirements for techinical experience are becomi
 
 
 ## Outline
-- Basics
-- Shell
-- SQL
-- High-Concurrency Architecture For Large Websites
+- Basics(1)(2)(3)
+- Shell(1)(2)
+- NoSQL(1)(2)
+- High-Concurrency Architecture For Large Websites(1)(2)
 
 
+## Baics(1)
+- What is Operation and Maintenance？
+Operation and Maintenance refers to the Internet Operation and Maintenance, which belongs to the technical department. The four big departments for the intenet prodcution are Technical Department, R & D Department, Testing Department, and System Management Department.
 
+Internet Operation and Maintenance is service centred, and it is supported by **Stability**, **Security**, **Efficiency**, which ensures the company can 7*24 hours operate to provide high quality service.
 
+As a linux architect 20% of the time will be dealing with the urgent problems, and 80% will be doiing other less urgent works.
 
+- Career Development:
+   **Technical**:  1. Linux Intermediate Architect -> Senior Architect
+                   2. Linux Intermediate Architect -> Puthon Automation Developer
+                   3. Linux Intermediate Architect -> MySQL Senior DBA
+   **Management**: Operations Manager -> Operations Director -> CTO/Vice President -> Entrepreneur
 
 
 
