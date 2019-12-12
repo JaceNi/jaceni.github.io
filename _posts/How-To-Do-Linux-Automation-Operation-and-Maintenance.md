@@ -52,21 +52,17 @@ As a linux architect 20% of the time will be dealing with the urgent problems, a
    **Management**: Operations Manager -> Operations Director -> CTO/Vice President -> Entrepreneur
 
 - Classifiactions of Operation and Maintainance:
-   
-   **Applicaton(SRE)**
-   
-   **System(SYS)**
-   
-   **R&D(DEV)**
-   
-   **Database(DBA)**
-   
-   **Security(SEC)**
+   1. Applicaton(SRE)
+   2. System(SYS)
+   3. R&D(DEV)
+   4. Database(DBA)
+   5. Security(SEC)
    
 - What can you do after learning?
-
-   --- Familiar with environment deployment, Backup, Monitor, and other tasks.
-   -- 
+   1. Familiar with environment deployment, Backup, Monitor, and other tasks.
+   2. Familiar with automation operation and maintenance.
+   3. Ability to achieve architecture optimization.
+   4. Able to handle Operation and Maintenance Engineer, Architect, and other jobs.
 
 
 --- By Yuchen Ni
