@@ -13,6 +13,7 @@ tags:
 
 After the first post of **From Linux Basics to Deployment 1**, we will discuss Permission/User/Group and Mosted Used Software, in three sections.
 
+
 ## Outline:
 - Linux Introduction
 - Install Linux
@@ -23,6 +24,7 @@ After the first post of **From Linux Basics to Deployment 1**, we will discuss P
 - Install Software Under Linux
 - Project Deployment
 
+
 ## Permission/User/Group(PUG)
 1. File Permissions Concept
 2. Directory Configuration
@@ -31,8 +33,10 @@ After the first post of **From Linux Basics to Deployment 1**, we will discuss P
 5. Files and Content Access
 6. Default permissions and Hidden Permissions of Files and Content
 
+
 - File Permissions Concept:
 Linux System has User1 with the files which can be edited by other users ouside the system, and those users can be maanged into diffrent groups.
+
 
 - Command to check files
 1. `ls`:     brief view
@@ -50,12 +54,14 @@ Linux System has User1 with the files which can be edited by other users ouside 
 13. `touch myfile`: create a file (linux does not care about the suffix)
 14. `fedit myfile.text`: 
 
+
 - File Type: 
 1. `-`: normal file
 2. `d`: folder
 3. `b`: block device file (Disk device etc)
 4. `|`: link file (shortcut)
 5. `c`: serial port device (mouse and keyboard etc)
+
 
 - File Permissions:
 1. `r`: readable
@@ -70,6 +76,7 @@ Linux System has User1 with the files which can be edited by other users ouside 
 10. `-`: remove permissions
 11. `chmod o+w myfile`: add writable permission to other users
 
+
 - Modify users and groups:
 1. `chown -R USER FOLDER_OR_FILE`: modify user
 2. `chgrp -R GROUP FILE_OR_FOLDER`: modify group
@@ -80,6 +87,7 @@ Linux System has User1 with the files which can be edited by other users ouside 
 7. `chown user1:user1 folder1`: change the folder1 owner and group to **user1** and **user1 group** (but the onwe and group of the files inside the **folder1** will **NOT be changed**)
 8. `-R`: recursion of change (change every files and folders inside the target folder)
 9. `chown -R user1.user1 folder1`: change the folder1 onwer and group and its every files and folders inside folder1 to user1.
+
 
 - Directory Configuration:
 1. `bin`: executable command file
@@ -99,6 +107,7 @@ Linux System has User1 with the files which can be edited by other users ouside 
 15. `root`: root user (other users will be located into home directory)
 **Note: Every Linux Distribution all follows FHS standard, all files are nearly the same.**
 
+
 - check system information:
 1. `uname`: check system name
 2. `uname -i`: check system configuration information
@@ -107,6 +116,7 @@ Linux System has User1 with the files which can be edited by other users ouside 
 5. `lsb_release -a`: check system info
 6. `cat /etc/redhat-release`: check system information
 7. `dir FOLDER`: check info
+
 
 - Files and Directories Management
 1. `pwd`: show current working directory
@@ -133,6 +143,7 @@ Linux System has User1 with the files which can be edited by other users ouside 
 12. `echo $PATH`: check PATH info
 13. `PATH="..."`: modify PATH
 
+
 - view file content:
 1. `car`: view all the content from first line
 2. `tac`: view all the content from last line
@@ -146,13 +157,16 @@ Linux System has User1 with the files which can be edited by other users ouside 
 8. `od`: view with binary style
 9. `q`: quite the content read mode
 
+
 - file default umask:
 1. default permission of file creation (666);   default permission of folder creation (666)
 2. umask: 
 3. `umask -S`: show current file permission of creation
 
+
 - file hidden permission:
 1. `chattr [+-] [attr] FILE_OR_FOLDER`: modify hidden permission
+
 
 - view file type:
 1. `file /bin/touch`
