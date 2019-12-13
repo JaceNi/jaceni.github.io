@@ -32,11 +32,21 @@ Common Commands/Document Editing in three sections.
 5. Files and Content Access
 6. Default permissions and Hidden Permissions of Files and Content
 
-## File Permissions Concept
-Linux System has User1 with the files which can be edited by other users ouside the system, and those users can be grouped into
+- File Permissions Concept:
+Linux System has User1 with the files which can be edited by other users ouside the system, and those users can be maanged into diffrent groups.
 
-
-
+- Command to check files
+`ls`:     brief view
+`ls -l`:  view in detals
+`ls -lh`: view in details of file size
+`ls -ld`: ciew info of directory
+`tree`:   in in tree structure
+`su`: change to root user
+`su username`: change user with user name of username
+`su - root`: change to home directory shown as `[root@name ~]# `
+`pwd`: show the current directory
+`adduser user1`: add another user user1
+`passwd user1`: change or create password for user1
 
 
 
