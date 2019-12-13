@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      From Linux Basics to Deployment 2
-subtitle:   Introduction to Permission/User/Group, Mosted Used Software, and Common Commands/Document Editing
+subtitle:   Introduction to Permission/User/Group, Mosted Used Software
 date:       2018-01-017
 author:     Yuchen Ni
 header-img: img/post-bg-rwd.jpg
@@ -11,7 +11,7 @@ tags:
     - Yuchen Ni
 ---
 
-After the first post of **From Linux Basics to Deployment 1**, we will discuss Permission/User/Group, Mosted Used Software, and Common Commands/Document Editing in three sections.
+After the first post of **From Linux Basics to Deployment 1**, we will discuss Permission/User/Group and Mosted Used Software, in three sections.
 
 ## Outline:
 - Linux Introduction
@@ -118,10 +118,48 @@ Linux System has User1 with the files which can be edited by other users ouside 
    - (`mkdir folder1/subd1` create a sub-folder)
    - (`mkdir -p folder1/{sub1,sub2,sub3}` create mutiple sub-forlders)
 5. `rmdir`: delete empty directory (can add `-p` option)
-6.`rm -rf folder`: strong delete
+6.`rm -rf DIRECTORY`: delete folders with files inside (**Dangerous!!! Can Delete Nearly Every Files**)
+   - `rm -rf *`: delete everything inside the current rediectory
 7. `touch`: create an empty or update a folder visit time
 8. `file`: check folder type
 9. `cat`: show folder centent (can add `more` or `less` command
+10. `/`: absolute path from root/dir1/dir2
+11. relative path:
+   - `.`:  current directory
+   - `..`:  previous directory
+   - `-`: switch between two directories
+   - `~`: home directory of the user
+   - `~user`: enter certain user home directory
+12. `echo $PATH`: check PATH info
+13. `PATH="..."`: modify PATH
+
+- view file content:
+1. `car`: view all the content from first line
+2. `tac`: view all the content from last line
+3. `nl` or `cat -n`: view with line number
+4. `more`: view content with page style
+5. `less`: similar with `more`, but it can go back to the previous pages
+6. `head`: view first few lines
+7. `tail`: view last few lines
+    - `tail -n FILE`: only read the last n lines of content
+    - 'tail -f FILE': still watching the file updated once changed
+8. `od`: view with binary style
+9. `q`: quite the content read mode
+
+- file default umask:
+1. default permission of file creation (666);   default permission of folder creation (666)
+2. umask: 
+3. `umask -S`: show current file permission of creation
+
+- file hidden permission:
+1. `chattr [+-] [attr] FILE_OR_FOLDER`: modify hidden permission
+
+- view file type:
+1. `file /bin/touch`
+2. `file /usr/bin/passwd`
+3. `file /var/lib/mlocate/mlocate.db`
+
+
 
 
 
