@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Introduction to Linux Automation Operation and Maintenance
+title:      How To Automate Linux Operation and Maintenance
 subtitle:   From Operation and Maintenance Basics to High-concurrency Architecture for Large Websites
 date:       2018-01-04
 author:     Yuchen Ni
